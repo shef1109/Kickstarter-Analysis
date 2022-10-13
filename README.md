@@ -19,7 +19,7 @@ The Pivot Table was filtered by the Parent Category "Theater" and "Years" to sho
 
 ### Analysis of Outcomes Based on Goals
 In order to analyze the data for outcome and its relationship to fundraising goal amounts, I created the following table in the Outcomes Based on Goals sheet within the Kickstarter file.
-![Outcomes_vs_Goals Table](resources/Outcomes_vs_Goals Table.png)
+![Outcomes_vs_Goals_Table](resources/Outcomes_vs_Goals_Table.png)
 
 This table has 12 rows and 8 columns, where the rows were broken down into dollar-amount ranges so the projects can be grouped based on their goal amounts and columns were broken up by Outcomes that were "Successful", "Canceled", and "Failed" counts, including a sum of each project and the percentage of each outcome category based on the total projects. 
 
